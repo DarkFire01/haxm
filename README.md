@@ -1,3 +1,6 @@
+This is an attempt to make the HAXM Hypervisor compatible with AMD CPU's. 
+THIS IS VERY W.I.P. AND IT DOESN'T WORK.
+
 # Intel Hardware Accelerated Execution Manager (HAXM)
 [HAXM][intel-haxm] is a hardware-assisted virtualization engine (hypervisor)
 that uses [Intel Virtualization Technology][intel-vt] to speed up IA (x86/
